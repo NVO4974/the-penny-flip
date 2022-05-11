@@ -1,0 +1,46 @@
+*{
+    
+}
+body{
+    text-align: center;
+    background: orange;
+}
+table{
+    margin-left:auto;
+    margin-right: auto;
+}
+#Buttondiv{
+    border:2px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#container{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background: white;
+
+}
+table,th,td{
+    border: 2px solid orange;
+
+}
+#Flip, #Clear{
+    font-size: 25px;
+    border-radius: 25px;
+}
+#Flip{
+    background: blue;
+}
+#Clear{
+    background: orange;
+}
+#Flip:hover{
+    color:red;
+    background:White;
+}
+#Clear:hover{
+    color:red;
+    background: white;
+}
